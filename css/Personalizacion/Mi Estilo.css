@@ -1,0 +1,179 @@
+header {
+    /*background: url(Presentacion.png) top left no-repeat;*/
+    background: #fff;
+    color: red;
+    /* width: 50px;
+    height: 200px;
+    margin: 0px;
+    padding: 0px;*/
+}
+
+.row_header{
+   background: #FF8C00;
+    color: black;
+    border-radius: 10em,
+
+}
+
+
+.main {
+    background: black;
+    color: #fff;
+    border: 5px solid orange;*/
+
+}
+
+.row_main{
+    border: 5px solid grey;*/
+}
+aside {
+    background: #F5FFFA;
+    color: black;
+}
+
+.color1 {
+    background-color: #F5FFFA;
+    color: black;
+}
+
+.color2 {
+    background-color: black;
+    color: white;
+}
+
+.GITHUB {
+    background: black;
+    color: #fff;
+}
+
+.CSS3 {
+    background:black;
+    color: #FFFFFF
+}
+
+.HTML5{
+
+	background:black;
+    color: #FFFFFF
+}
+
+.HTML5_Mm{
+
+	background:black;
+    color: #FFFFFF
+}
+
+.CSS3_TRU{
+
+	background:black;
+    color: #FFFFFF
+}
+
+.NAV_BAR{
+
+	    background-color: black;
+        color: #FFFFFF
+}
+.NAV_BAR_0{
+
+        background-color:black;
+        color: #FFFFFF
+}
+
+.NAV_BAR_1{
+
+        background-color: black;
+        color: #FFFFFF
+}
+.NAV_BAR_2{
+
+    background-color:black;
+    color: #FFFFFF
+}
+.rad0{
+
+border: 2px solid black;
+background-color: white;
+
+}
+
+.rad1{
+
+border: 2px solid black;
+background-color: white;
+
+}
+
+.rad2{
+
+border: 2px solid black;
+background-color: white;
+
+}
+
+.rad3{
+
+border: 2px solid black;
+background-color:white;
+
+}
+
+
+/* sólo color de fondo */
+
+footer {
+    background: black;
+    color: white;
+}
+
+.search{
+
+background-color: #FFFFFF;
+	
+}
+
+.autores1{
+
+ background-color:black;
+ color:#FFFFFF;
+
+
+}  
+.autores2{
+
+ background-color:white;
+ color:#FFFFFF;
+
+
+} 
+
+.autores3{
+
+border: 2px solid black;
+background-color:#FFFFFF;
+
+
+}
+
+.ahorcado1{
+border: 2px solid black;
+background-color: #F1F2A5
+}
+
+.ahorcado2{
+     background-color: black;
+     color: white;
+
+}
+.pacman{
+
+    background:black;
+    color: #FFFFFF
+
+}
+.github_pre{
+
+    background: black;
+    color: #fff;
+
+}
